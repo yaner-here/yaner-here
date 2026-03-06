@@ -1,5 +1,5 @@
 ![Visitor Counter Tracker by yhype.me/github/profile-views](https://hit.yhype.me/github/profile?user_id=26623948)
-![Visitor Counter](https://komarev.com/ghpvc/?username=yaner-here)
+<img title="Visitor Counter" src="https://komarev.com/ghpvc/?username=yaner-here" hidden />
 
 <div align="center">
   <img src="https://forked-github-readme-stats-iota.vercel.app/api?username=yaner-here&show_icons=true&theme=react&card_width=478" height="150" />
